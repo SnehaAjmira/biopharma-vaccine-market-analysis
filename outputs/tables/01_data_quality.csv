@@ -1,0 +1,10 @@
+check_name,result
+Raw rows,68509
+Rows after removing EU aggregate,54814
+Countries / territories,43
+Manufacturers,15
+Date range,2020-12-04 to 2024-08-10
+Null dose values,0
+Duplicate country-date-vaccine keys,0
+Downward revisions in cumulative series,4
+Unmapped manufacturers,0

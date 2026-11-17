@@ -1,0 +1,37 @@
+quarter,platform,doses_millions,share_of_quarter_pct
+2020-10-01,Inactivated,0.0,0.0
+2020-10-01,Protein-based,0.0,0.0
+2020-10-01,Viral vector,0.04,11.4
+2020-10-01,mRNA,0.34,88.6
+2021-01-01,Inactivated,12.63,5.1
+2021-01-01,Protein-based,0.0,0.0
+2021-01-01,Viral vector,22.95,9.2
+2021-01-01,mRNA,214.11,85.8
+2021-04-01,Inactivated,19.74,3.2
+2021-04-01,Protein-based,0.0,0.0
+2021-04-01,Viral vector,89.75,14.4
+2021-04-01,mRNA,511.76,82.4
+2021-07-01,Inactivated,40.36,7.5
+2021-07-01,Protein-based,0.0,0.0
+2021-07-01,Viral vector,49.77,9.2
+2021-07-01,mRNA,448.13,83.3
+2021-10-01,Inactivated,30.02,6.9
+2021-10-01,Protein-based,0.0,0.0
+2021-10-01,Viral vector,22.78,5.2
+2021-10-01,mRNA,384.57,87.9
+2022-01-01,Inactivated,28.85,7.9
+2022-01-01,Protein-based,0.29,0.1
+2022-01-01,Viral vector,32.14,8.8
+2022-01-01,mRNA,305.05,83.3
+2022-04-01,Inactivated,2.53,2.2
+2022-04-01,Protein-based,0.22,0.2
+2022-04-01,Viral vector,6.92,5.9
+2022-04-01,mRNA,107.44,91.7
+2022-07-01,Inactivated,1.45,1.4
+2022-07-01,Protein-based,0.29,0.3
+2022-07-01,Viral vector,0.77,0.8
+2022-07-01,mRNA,98.89,97.5
+2022-10-01,Inactivated,0.5,0.4
+2022-10-01,Protein-based,0.14,0.1
+2022-10-01,Viral vector,0.39,0.3
+2022-10-01,mRNA,133.91,99.2

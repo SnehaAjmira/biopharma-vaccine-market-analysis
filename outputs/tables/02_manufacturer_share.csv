@@ -1,0 +1,16 @@
+manufacturer,platform,doses_millions,share_pct,countries_used
+Pfizer/BioNTech,mRNA,1654.3,63.59,43
+Moderna,mRNA,584.4,22.46,38
+Oxford/AstraZeneca,Viral vector,149.1,5.73,38
+Sinopharm/Beijing,Inactivated,72.6,2.79,7
+Sinovac,Inactivated,63.8,2.45,8
+Johnson&Johnson,Viral vector,52.4,2.01,34
+Sputnik V,Viral vector,22.6,0.87,4
+CanSino,Viral vector,1.5,0.06,2
+Novavax,Protein-based,1.0,0.04,24
+Sanofi/GSK,Protein-based,0.0,0.0,5
+Medicago,Protein-based,0.0,0.0,1
+SKYCovione,Protein-based,0.0,0.0,1
+Valneva,Inactivated,0.0,0.0,3
+Sputnik Light,Viral vector,0.0,0.0,1
+Covaxin,Inactivated,0.0,0.0,2
